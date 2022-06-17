@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
    <properties>
-	<sonar.host.url>http://13.232.142.248:9000/</sonar.host.url>
+	<sonar.host.url>hhttp://3.110.177.109:9000/</sonar.host.url>
 	<sonar.login>fb56d07b80d3475e548293690ae3265ebc01b7b5</sonar.login>
   </properties>
   <build>
