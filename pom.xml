@@ -14,13 +14,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
-   <properties>
-	<sonar.host.url>http://3.110.177.109:9000/</sonar.host.url>
-	<sonar.login>fb56d07b80d3475e548293690ae3265ebc01b7b5</sonar.login>
-	
-  </properties>
-  
+	</dependencies>
   <build>
     <finalName>01-maven-web-app</finalName>
   </build>
